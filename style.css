@@ -1,0 +1,135 @@
+.Text {
+  text-align: center;
+}
+
+.logo-text {
+  font-family: Calibri;
+  font-size: 30px;
+  color: white;
+
+}
+.menu-text {
+  font-family: Calibri;
+}
+
+.Otext {
+  font-family: Calibri;
+  font-size: 25px;
+  color: #C0C0C0;
+}
+#demoObject {
+-webkit-box-shadow: -5px 0px 22px -6px rgba(0,0,0,0.69); 
+box-shadow: -5px 0px 22px -6px rgba(0,0,0,0.69);
+background: #3E5F8A;
+}
+body#tinymce {
+background: #FFFFFF
+}
+
+#demoObject1 {
+text-align: center;
+-webkit-box-shadow: -5px 0px 22px -11px rgba(0,0,0,0.69); 
+box-shadow: -5px 0px 22px -11px rgba(0,0,0,0.69);
+background: #777777;
+}
+body#tinymce1 {
+background: #FFFFFF
+}
+
+
+.column {
+    float: left;
+    width: 25%;
+    padding: 10px;
+}
+
+.column img {
+    opacity: 0.8;
+    cursor: pointer;
+}
+
+.column img:hover {
+    opacity: 1;
+}
+
+.row:after {
+    content: "";
+    display: table;
+    clear: both;
+}
+
+.container {
+    position: relative;
+    display: none;
+}
+
+#imgtext {
+    position: absolute;
+    bottom: 15px;
+    left: 15px;
+    color: white;
+    font-size: 20px;
+}
+
+.closebtn {
+    position: absolute;
+    top: 10px;
+    right: 15px;
+    color: white;
+    font-size: 35px;
+    cursor: pointer;
+}
+.text-main1 {
+  font-family: Calibri;
+}
+.Color-text {
+  color: grey;
+  font-family: Calibri;
+}
+#demoObject2 {
+-webkit-box-shadow: 0px 0px 17px -6px #000000; 
+box-shadow: 0px 0px 17px -6px #000000;
+background: #FBFBFB;
+text-decoration: none;
+}
+body#tinymce2 {
+background: #FFFFFF
+}
+.SPISOK {
+  text-align: left;
+  font-family: Calibri;
+  font-size: 25px;
+}
+
+.gradient-button {
+  text-decoration: none;
+  display: inline-block;
+  color: white;
+  padding: 20px 30px;
+  margin: 10px 20px;
+  border-radius: 10px;
+  font-family: 'Montserrat', sans-serif;
+  text-transform: uppercase;
+  letter-spacing: 2px;
+  background-image: linear-gradient(to right, #9EEFE1 0%, #4830F0 51%, #9EEFE1 100%);
+  background-size: 200% auto;
+  box-shadow: 0 0 20px rgba(0, 0, 0, .1);
+  transition: .5s;
+}
+.gradient-button:hover {
+  background-position: right center;
+}
+
+.TEXT {
+  margin: 20px;
+}
+
+.Onews {
+  margin: 30px;
+}
+
+.Text-misto {
+  font-family: Calibri;
+  margin: 30px;
+  color: DimGray;
+}
